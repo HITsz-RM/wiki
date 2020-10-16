@@ -17,6 +17,11 @@
             "navi": true
         },
         {
+            "text": "比赛规则",
+            "target": "rules/note.json",
+            "navi": true
+        },
+        {
             "text": "成本预算",
             "target": "budget/note.json",
             "navi": true
