@@ -4,16 +4,19 @@
     ],
     "sub_directories": [
         {
-            "name": "2018"
+            "name": "机械组"
         },
         {
-            "name": "2019"
+            "name": "电控组"
         },
         {
-            "name": "2020"
+            "name": "视觉组"
         },
         {
-            "name": "2021"
+            "name": "硬件组"
+        },
+        {
+            "name": "运营组"
         }
     ],
     "version": "1"

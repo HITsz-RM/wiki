@@ -4,13 +4,10 @@
     ],
     "sub_directories": [
         {
-            "name": "团队信息"
+            "name": "技术文档"
         },
         {
-            "name": "会议记录"
-        },
-        {
-            "name": "团队建设"
+            "name": "培训文档"
         }
     ],
     "version": "1"

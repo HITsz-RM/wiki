@@ -4,13 +4,10 @@
     ],
     "sub_directories": [
         {
-            "name": "团队信息"
+            "name": "2019"
         },
         {
-            "name": "会议记录"
-        },
-        {
-            "name": "团队建设"
+            "name": "2020"
         }
     ],
     "version": "1"

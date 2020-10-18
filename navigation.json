@@ -7,29 +7,14 @@
             "toc": true
         },
         {
-            "text": "团队信息库",
-            "target": "information/note.json",
-            "navi": true
-        },
-        {
-            "text": "项目进度",
-            "target": "progress/note.json",
-            "navi": true
-        },
-        {
-            "text": "比赛规则",
-            "target": "rules/note.json",
-            "navi": true
-        },
-        {
-            "text": "成本预算",
-            "target": "budget/note.json",
-            "navi": true
-        },
-        {
             "text": "团队事项",
-            "navi": true,
-            "target": "team/note.json"
+            "target": "team/note.json",
+            "navi": true
+        },
+        {
+            "text": "比赛",
+            "target": "competition/note.json",
+            "navi": true
         }
     ],
     "actions":
